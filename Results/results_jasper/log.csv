@@ -1,0 +1,1 @@
+LR: 0.005, EPOCH: 700, Batch: 1, para_re: 0.8, para_sad: 0.2, RE: 0.0343, SAD: 0.0369, Class0_sad: 0.0370, Class1_sad: 0.0505, Class2_sad: 0.0277, Class3_sad: 0.0325, RMSE: 0.0758, Class0_mse: 0.0659, Class1_mse: 0.0827, Class2_mse: 0.0805, Class3_mse: 0.0730, TIME:2026-08-26 19:50:01
